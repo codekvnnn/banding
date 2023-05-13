@@ -1,0 +1,1 @@
+SELECT * FROM band_schema.bands;
